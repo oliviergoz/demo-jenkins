@@ -38,7 +38,7 @@ class MaClassDeTest {
 	
 	@Test
 	void factorielTest() {
-		//a
+		//aa
 		assertEquals(6, fct.factoriel(3));
 	}
 	
